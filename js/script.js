@@ -29,7 +29,7 @@ document
       'transaction-container',
       'for Flood at Noakhali, Bangladesh'
     );
-    document.getElementById('confirmationModal').classList.remove('hidden');
+    //document.getElementById('confirmationModal').classList.remove('hidden');
   });
 
 // Card 2
@@ -45,7 +45,7 @@ document
       'transaction-container',
       'for Flood Relief in Feni,Bangladesh'
     );
-    document.getElementById('confirmationModal').classList.remove('hidden');
+    //document.getElementById('confirmationModal').classList.remove('hidden');
   });
 
 // Card 3
@@ -61,7 +61,7 @@ document
       'transaction-container',
       'for Injured in the Quota Movement'
     );
-    document.getElementById('confirmationModal').classList.remove('hidden');
+    //document.getElementById('confirmationModal').classList.remove('hidden');
   });
 
 // History button

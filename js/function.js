@@ -58,6 +58,7 @@ function handleDonation(
     document.getElementById(donationInputFieldId).value = '';
 
     //alert('Successfully Added donation');
+    document.getElementById('confirmationModal').classList.remove('hidden');
     return;
   }
 }
