@@ -1,7 +1,7 @@
 // When Click the Blog button go to Blog Page
-document.getElementById('goToBlog').addEventListener('click', function () {
-  window.location.href = '/blog.html';
-});
+// document.getElementById('goToBlog').addEventListener('click', function () {
+//   window.location.href = '/blog.html';
+// });
 
 // Click Donation button to go Donation Section
 document.getElementById('btnDonation').addEventListener('click', function () {
